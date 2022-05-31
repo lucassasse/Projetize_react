@@ -17,7 +17,7 @@ function Footer() {
         </li>
       </ul>
       <p className={styles.copy_right}>
-        <span>Projetize</span> &copy; 2022
+        <span>Projetize</span> &copy; 2022 - Lucas Eduardo Sasse
       </p>
     </footer>
   )
