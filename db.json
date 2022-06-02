@@ -1,86 +1,38 @@
 {
   "projects": [
     {
-      "name": "Projeto 007",
-      "budget": "20001",
+      "name": "hfdh",
+      "budget": "1561",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "1",
+        "name": "Infra"
       },
-      "cost": 454,
+      "cost": 67,
       "services": [
         {
-          "name": "Projeto 007",
-          "cost": "454",
-          "description": "Teste de validação",
-          "id": "bc0b6f94-3cb6-4848-8f97-7aee81946eb7"
+          "name": "ggggg",
+          "cost": "12",
+          "description": "Teste 1",
+          "id": "f184d1a3-e708-466c-a886-274ba3d8dc9d"
+        },
+        {
+          "name": "novo",
+          "cost": "55",
+          "description": "sai?",
+          "id": "96e0a7d0-5236-48f2-bf11-4181b07a9b1c"
         }
       ],
       "id": 1
     },
     {
-      "name": "Outro Projetin",
-      "budget": "77799",
+      "name": "Lucas",
+      "budget": "1111",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": null,
-      "services": [
-        {
-          "id": "1e5b027f-00b2-462c-bdfa-af9dc7c03313"
-        },
-        {
-          "id": "1e5b027f-00b2-462c-bdfa-af9dc7c03313"
-        },
-        {
-          "id": "1eb5d734-3fcf-4b45-8b57-b81ed8b9201c",
-          "cost": "123123"
-        },
-        {
-          "id": "1f9ee93c-a523-454e-895f-c0158c046da4"
-        },
-        {
-          "id": "e3026243-cba5-43bb-b890-8d913a1de4b3",
-          "cost": "54535"
-        },
-        {
-          "id": "043ae89d-7d61-4956-a935-34e6737c667d",
-          "cost": "5453565"
-        },
-        {
-          "name": "ihlui",
-          "description": "Teste de validação",
-          "cost": "1",
-          "id": "07923fe7-e251-4e07-bfed-995efc5ed15a"
-        },
-        {
-          "name": "ihlui",
-          "description": "Teste de validação",
-          "cost": "1999999999999",
-          "id": "d6df3610-60d1-48be-b0d0-f2960e389aa7"
-        },
-        {
-          "name": "ihlui",
-          "description": "Teste de validação",
-          "cost": "1999999999999",
-          "id": "7845581e-d935-478b-94c6-baad5e50f68d"
-        },
-        {
-          "name": "ihlui",
-          "description": "Teste de validação",
-          "cost": "1",
-          "id": "f84e5483-c178-4a80-af32-4f1ecb1fbcbb"
-        },
-        {
-          "cost": "99999999",
-          "id": "86788525-625f-4ba9-95b7-d34a4b7864b7"
-        },
-        {
-          "cost": "99",
-          "id": "17963acf-4b03-4a33-a2a8-2cf37bcf8ca6"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 2
     }
   ],
